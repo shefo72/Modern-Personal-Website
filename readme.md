@@ -7,14 +7,16 @@ This project showcases multiple sections such as articles, gallery, features, se
 
 ## 🚀 Live Demo
 
+👉 https://shefo72.github.io/Modern-Personal-Website/
+
 ---
 
 ## 📌 Features
 
-- Responsive design for all screen sizes
+- Fully responsive design
 - Clean and modern UI
 - Mega menu navigation
-- Animated sections
+- Smooth animations
 - Skills progress bars
 - Pricing plans layout
 - Testimonials & team members sections
